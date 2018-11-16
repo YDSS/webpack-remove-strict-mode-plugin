@@ -75,4 +75,4 @@ class WebpackRemoveStrictModePlugin {
     }
 }
 
-module.exports = RemoveStrictPlugin;
+module.exports = WebpackRemoveStrictModePlugin;
